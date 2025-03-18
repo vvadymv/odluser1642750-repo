@@ -82,5 +82,12 @@
     "year": "2021",
     "price": "$27,000",
     "thumbnail": "/images/2021_suburu.webp"
+  },
+  {
+    "vin": "1HGCM82633A004352",
+    "make_model": "Honda Accord2",
+    "year": "2003",
+    "price": "$5,000",
+    "thumbnail": "/images/2021_suburu.webp"
   }
 ]
