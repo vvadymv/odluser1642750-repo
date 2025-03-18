@@ -89,5 +89,12 @@
     "year": "2003",
     "price": "$5,000",
     "thumbnail": "/images/2021_suburu.webp"
+  },
+  {
+    "vin": "3FAHP0HA0AR123456",
+    "make_model": "Ford Fusion",
+    "year": "2010",
+    "price": "$5,000",
+    "thumbnail": "/images/2021_ford_mustang.webp"
   }
 ]
